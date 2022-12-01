@@ -15,4 +15,5 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);
   delay(LED_DELAY_MS);
   Serial.print(LED_DELAY_MS);
+  //Hola estamos en el taller de GOT...soy Ramón
 }
