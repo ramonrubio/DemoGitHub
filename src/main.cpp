@@ -16,4 +16,6 @@ void loop() {
   delay(LED_DELAY_MS);
   Serial.print(LED_DELAY_MS);
   //Hola estamos en el taller de GOT...soy Ramón
+
+  //mi segundo cambio....porque la primera no me dejó....
 }
